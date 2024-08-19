@@ -7,13 +7,13 @@ This is a simple Node.js application that uses OpenAI's GPT-3.5-turbo model to c
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/Ammar-Alesrawi/Chatbot-.git
+    git clone https://github.com/Ammar-Alesrawi/Chatbot-GPT.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd Chatbot-
+    cd Chatbot-GPT
     ```
 
 3. Install the required dependencies:
